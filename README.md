@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumanthN16
 - 👀 I’m interested in website developing, project making, Artificial intellegence, machine learning.
-- 🌱 I’m currently learning Engineering in AIML
-- 💞️ I’m looking to collaborate on SpaceX, NASA, oracle, Google.
+- 🌱 I’m currently AI developer at Signdesk
+- 💞️ I’m looking to collaborate.
 - 📫 Contact me through sumanth11618@gmail.com
 
 <!---
